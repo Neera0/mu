@@ -1,6 +1,6 @@
 owner=426501619358892062
 prefix=$
-game=play
+game=Neer , Emerald
 stayinchannel=true
 songinstatus=false
 token=NjExMjczMTQ0OTY3MzY0NjQ4.XVRgvA.zbp3L_BJEp5DFx326O0-5X_1_PE
