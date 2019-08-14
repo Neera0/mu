@@ -3,4 +3,4 @@ prefix=$
 game=Neer , Emerald
 stayinchannel=true
 songinstatus=false
-token=NjExMjczMTQ0OTY3MzY0NjQ4.XVRgvA.zbp3L_BJEp5DFx326O0-5X_1_PE
+token=NjExMjczMTQ0OTY3MzY0NjQ4.XVRsrg.96bZ_-02FL-rv0CR43DD3x3uD0k
